@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Fly Me To The Moon (In Other Words) (2007 MIX)",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-01-12T13:44:18.292379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon (In Other Words)\u001fFly Me To The Moon (In Other Words)",
+      "artist": "Bobby Womack",
+      "has_synced": true,
+      "path": "select/01_Fly_Me_To_The_Moon_(In_Other_Words)_Fly_Me_To_The_Moon_(In_Other_Words)_Bobby_Womack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon (In Other Words)",
+      "artist": "Julie London",
+      "has_synced": true,
+      "path": "select/02_Fly_Me_to_the_Moon_(In_Other_Words)_Julie_London.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon (In Other Words)",
+      "artist": "Bobby Womack",
+      "has_synced": true,
+      "path": "select/03_Fly_Me_To_The_Moon_(In_Other_Words)_Bobby_Womack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon (In Other Words)",
+      "artist": "Sinatra, Frank",
+      "has_synced": false,
+      "path": "select/04_Fly_Me_to_the_Moon_(In_Other_Words)_Sinatra,_Frank.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon (In Other Words)",
+      "artist": "Julie London",
+      "has_synced": true,
+      "path": "select/05_Fly_Me_To_The_Moon_(In_Other_Words)_Julie_London.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon (In Other Words)",
+      "artist": "Tony Bennett",
+      "has_synced": true,
+      "path": "select/06_Fly_Me_To_The_Moon_(In_Other_Words)_Tony_Bennett.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon (In Other Words)",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/07_Fly_Me_to_the_Moon_(In_Other_Words)_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon (In Other Words)",
+      "artist": "Soundtrack",
+      "has_synced": true,
+      "path": "select/08_Fly_Me_To_The_Moon_(In_Other_Words)_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon (In Other Words)",
+      "artist": "Gregory Porter",
+      "has_synced": false,
+      "path": "select/09_Fly_Me_To_The_Moon_(In_Other_Words)_Gregory_Porter.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon (In Other Words)",
+      "artist": "Marvin Gaye",
+      "has_synced": false,
+      "path": "select/10_Fly_Me_to_the_Moon_(In_Other_Words)_Marvin_Gaye.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon (In Other Words)",
+      "artist": "Peggy Lee",
+      "has_synced": true,
+      "path": "select/11_Fly_Me_to_the_Moon_(In_Other_Words)_Peggy_Lee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon (In Other Words)",
+      "artist": "Matt Monro",
+      "has_synced": true,
+      "path": "select/12_Fly_Me_to_the_Moon_(In_Other_Words)_Matt_Monro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly Me To The Moon (In Other Words)",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Fly_Me_To_The_Moon_(In_Other_Words)_宇多田_ヒカル.txt"
+    }
+  ]
+}
